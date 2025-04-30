@@ -19,5 +19,5 @@ isUsingCsharp = false;
 
 ## List
 - [x] Learn the basics of GitHub
-- [ ] Understand markdown completely
+- [x] Understand markdown completely
 - [ ] Start to actually use Git for my projects
