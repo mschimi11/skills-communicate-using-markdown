@@ -5,7 +5,14 @@
 ##### Maybe TOO small. Just saying no one will take it seriously
 ###### Can you possibly read this? Even the ant had problems
 
-
+## Images
 
 Just wanting to revive this again:
 ![Test question about a past popular artist](https://live.staticflickr.com/2338/2329898209_885b3a6d0c_w.jpg)
+
+## Code
+
+``` C#
+public bool isUsingCsharp = true;
+```
+isUsingCsharp = false;
